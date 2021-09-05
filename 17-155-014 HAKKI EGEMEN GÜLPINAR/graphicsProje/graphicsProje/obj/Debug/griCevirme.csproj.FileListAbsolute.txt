@@ -1,0 +1,66 @@
+C:\Users\User\Desktop\griCevirme\griCevirme\bin\Debug\griCevirme.exe.config
+C:\Users\User\Desktop\griCevirme\griCevirme\bin\Debug\griCevirme.exe
+C:\Users\User\Desktop\griCevirme\griCevirme\bin\Debug\griCevirme.pdb
+C:\Users\User\Desktop\griCevirme\griCevirme\obj\Debug\griCevirme.csprojAssemblyReference.cache
+C:\Users\User\Desktop\griCevirme\griCevirme\obj\Debug\griCevirme.Properties.Resources.resources
+C:\Users\User\Desktop\griCevirme\griCevirme\obj\Debug\griCevirme.csproj.GenerateResource.cache
+C:\Users\User\Desktop\griCevirme\griCevirme\obj\Debug\griCevirme.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\griCevirme\griCevirme\obj\Debug\griCevirme.exe
+C:\Users\User\Desktop\griCevirme\griCevirme\obj\Debug\griCevirme.pdb
+C:\Users\User\Desktop\griCevirme\griCevirme\obj\Debug\griCevirme.goruntuIsleme.resources
+C:\Users\ahmet\OneDrive\Masaüstü\griCevirme\griCevirme\griCevirme\bin\Debug\griCevirme.exe.config
+C:\Users\ahmet\OneDrive\Masaüstü\griCevirme\griCevirme\griCevirme\bin\Debug\griCevirme.exe
+C:\Users\ahmet\OneDrive\Masaüstü\griCevirme\griCevirme\griCevirme\bin\Debug\griCevirme.pdb
+C:\Users\ahmet\OneDrive\Masaüstü\griCevirme\griCevirme\griCevirme\obj\Debug\griCevirme.csprojAssemblyReference.cache
+C:\Users\ahmet\OneDrive\Masaüstü\griCevirme\griCevirme\griCevirme\obj\Debug\griCevirme.goruntuIsleme.resources
+C:\Users\ahmet\OneDrive\Masaüstü\griCevirme\griCevirme\griCevirme\obj\Debug\griCevirme.Properties.Resources.resources
+C:\Users\ahmet\OneDrive\Masaüstü\griCevirme\griCevirme\griCevirme\obj\Debug\griCevirme.csproj.GenerateResource.cache
+C:\Users\ahmet\OneDrive\Masaüstü\griCevirme\griCevirme\griCevirme\obj\Debug\griCevirme.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\OneDrive\Masaüstü\griCevirme\griCevirme\griCevirme\obj\Debug\griCevirme.exe
+C:\Users\ahmet\OneDrive\Masaüstü\griCevirme\griCevirme\griCevirme\obj\Debug\griCevirme.pdb
+C:\Users\bengi\Desktop\griCevirme\griCevirme\bin\Debug\griCevirme.exe.config
+C:\Users\bengi\Desktop\griCevirme\griCevirme\bin\Debug\griCevirme.exe
+C:\Users\bengi\Desktop\griCevirme\griCevirme\bin\Debug\griCevirme.pdb
+C:\Users\bengi\Desktop\griCevirme\griCevirme\obj\Debug\griCevirme.csprojAssemblyReference.cache
+C:\Users\bengi\Desktop\griCevirme\griCevirme\obj\Debug\griCevirme.goruntuIsleme.resources
+C:\Users\bengi\Desktop\griCevirme\griCevirme\obj\Debug\griCevirme.Properties.Resources.resources
+C:\Users\bengi\Desktop\griCevirme\griCevirme\obj\Debug\griCevirme.csproj.GenerateResource.cache
+C:\Users\bengi\Desktop\griCevirme\griCevirme\obj\Debug\griCevirme.exe
+C:\Users\bengi\Desktop\griCevirme\griCevirme\obj\Debug\griCevirme.pdb
+C:\Users\egeme\Desktop\aaa\griCevirme\griCevirme\bin\Debug\griCevirme.exe.config
+C:\Users\egeme\Desktop\aaa\griCevirme\griCevirme\bin\Debug\griCevirme.exe
+C:\Users\egeme\Desktop\aaa\griCevirme\griCevirme\bin\Debug\griCevirme.pdb
+C:\Users\egeme\Desktop\aaa\griCevirme\griCevirme\obj\Debug\griCevirme.csprojAssemblyReference.cache
+C:\Users\egeme\Desktop\aaa\griCevirme\griCevirme\obj\Debug\griCevirme.goruntuIsleme.resources
+C:\Users\egeme\Desktop\aaa\griCevirme\griCevirme\obj\Debug\griCevirme.Properties.Resources.resources
+C:\Users\egeme\Desktop\aaa\griCevirme\griCevirme\obj\Debug\griCevirme.csproj.GenerateResource.cache
+C:\Users\egeme\Desktop\aaa\griCevirme\griCevirme\obj\Debug\griCevirme.exe
+C:\Users\egeme\Desktop\aaa\griCevirme\griCevirme\obj\Debug\griCevirme.pdb
+C:\Users\egeme\Desktop\Computer Graphics\Proje-1\aaa\griCevirme\griCevirme\bin\Debug\griCevirme.exe.config
+C:\Users\egeme\Desktop\Computer Graphics\Proje-1\aaa\griCevirme\griCevirme\bin\Debug\griCevirme.exe
+C:\Users\egeme\Desktop\Computer Graphics\Proje-1\aaa\griCevirme\griCevirme\bin\Debug\griCevirme.pdb
+C:\Users\egeme\Desktop\Computer Graphics\Proje-1\aaa\griCevirme\griCevirme\obj\Debug\griCevirme.csprojAssemblyReference.cache
+C:\Users\egeme\Desktop\Computer Graphics\Proje-1\aaa\griCevirme\griCevirme\obj\Debug\griCevirme.goruntuIsleme.resources
+C:\Users\egeme\Desktop\Computer Graphics\Proje-1\aaa\griCevirme\griCevirme\obj\Debug\griCevirme.Properties.Resources.resources
+C:\Users\egeme\Desktop\Computer Graphics\Proje-1\aaa\griCevirme\griCevirme\obj\Debug\griCevirme.csproj.GenerateResource.cache
+C:\Users\egeme\Desktop\Computer Graphics\Proje-1\aaa\griCevirme\griCevirme\obj\Debug\griCevirme.exe
+C:\Users\egeme\Desktop\Computer Graphics\Proje-1\aaa\griCevirme\griCevirme\obj\Debug\griCevirme.pdb
+C:\Users\ahmet\OneDrive\Masaüstü\Sonhali\aaa\griCevirme\griCevirme\bin\Debug\griCevirme.exe.config
+C:\Users\ahmet\OneDrive\Masaüstü\Sonhali\aaa\griCevirme\griCevirme\bin\Debug\griCevirme.exe
+C:\Users\ahmet\OneDrive\Masaüstü\Sonhali\aaa\griCevirme\griCevirme\bin\Debug\griCevirme.pdb
+C:\Users\ahmet\OneDrive\Masaüstü\Sonhali\aaa\griCevirme\griCevirme\obj\Debug\griCevirme.csprojAssemblyReference.cache
+C:\Users\ahmet\OneDrive\Masaüstü\Sonhali\aaa\griCevirme\griCevirme\obj\Debug\griCevirme.goruntuIsleme.resources
+C:\Users\ahmet\OneDrive\Masaüstü\Sonhali\aaa\griCevirme\griCevirme\obj\Debug\griCevirme.Properties.Resources.resources
+C:\Users\ahmet\OneDrive\Masaüstü\Sonhali\aaa\griCevirme\griCevirme\obj\Debug\griCevirme.csproj.GenerateResource.cache
+C:\Users\ahmet\OneDrive\Masaüstü\Sonhali\aaa\griCevirme\griCevirme\obj\Debug\griCevirme.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\OneDrive\Masaüstü\Sonhali\aaa\griCevirme\griCevirme\obj\Debug\griCevirme.exe
+C:\Users\ahmet\OneDrive\Masaüstü\Sonhali\aaa\griCevirme\griCevirme\obj\Debug\griCevirme.pdb
+C:\Users\egeme\Desktop\Computer Graphics\Proje-1\Ödev Son Hali\sonnnn\aaa\griCevirme\griCevirme\obj\Debug\griCevirme.csprojAssemblyReference.cache
+C:\Users\egeme\Desktop\Computer Graphics\Proje-1\Ödev Son Hali\sonnnn\aaa\griCevirme\griCevirme\obj\Debug\griCevirme.goruntuIsleme.resources
+C:\Users\egeme\Desktop\Computer Graphics\Proje-1\Ödev Son Hali\sonnnn\aaa\griCevirme\griCevirme\obj\Debug\griCevirme.csproj.GenerateResource.cache
+C:\Users\egeme\Desktop\Computer Graphics\Proje-1\Ödev Son Hali\sonnnn\aaa\griCevirme\griCevirme\bin\Debug\graphicProje.exe.config
+C:\Users\egeme\Desktop\Computer Graphics\Proje-1\Ödev Son Hali\sonnnn\aaa\griCevirme\griCevirme\bin\Debug\graphicProje.exe
+C:\Users\egeme\Desktop\Computer Graphics\Proje-1\Ödev Son Hali\sonnnn\aaa\griCevirme\griCevirme\bin\Debug\graphicProje.pdb
+C:\Users\egeme\Desktop\Computer Graphics\Proje-1\Ödev Son Hali\sonnnn\aaa\griCevirme\griCevirme\obj\Debug\graphicProje.Properties.Resources.resources
+C:\Users\egeme\Desktop\Computer Graphics\Proje-1\Ödev Son Hali\sonnnn\aaa\griCevirme\griCevirme\obj\Debug\graphicProje.exe
+C:\Users\egeme\Desktop\Computer Graphics\Proje-1\Ödev Son Hali\sonnnn\aaa\griCevirme\griCevirme\obj\Debug\graphicProje.pdb

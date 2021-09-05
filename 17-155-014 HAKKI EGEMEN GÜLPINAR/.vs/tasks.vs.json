@@ -1,0 +1,35 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "görev-H.EgemenGulpinar",
+      "appliesTo": "graphicsProje/H.EgemenGulpinar.sln",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "görev-H.EgemenGulpinar",
+      "appliesTo": "graphicsProje/H.EgemenGulpinar.sln",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "görev-graphics",
+      "appliesTo": "graphicsProje/graphicsProje/graphics.sln",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "görev-17-155-014 HAKKI EGEMEN GÜLPINAR",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "görev-17-155-014 HAKKI EGEMEN GÜLPINAR",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "görev-graphicsProje",
+      "appliesTo": "graphicsProje/",
+      "type": "launch"
+    }
+  ]
+}

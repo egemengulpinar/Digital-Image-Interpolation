@@ -1,0 +1,27 @@
+C:\Users\egeme\Desktop\Computer Graphics\Proje-1\Ödev Son Hali\sonnnn\aaa\griCevirme\griCevirme\bin\Debug\graphicProje.exe.config
+C:\Users\egeme\Desktop\Computer Graphics\Proje-1\Ödev Son Hali\sonnnn\aaa\griCevirme\griCevirme\bin\Debug\graphicProje.exe
+C:\Users\egeme\Desktop\Computer Graphics\Proje-1\Ödev Son Hali\sonnnn\aaa\griCevirme\griCevirme\bin\Debug\graphicProje.pdb
+C:\Users\egeme\Desktop\Computer Graphics\Proje-1\Ödev Son Hali\sonnnn\aaa\griCevirme\griCevirme\obj\Debug\graphicProje.csprojAssemblyReference.cache
+C:\Users\egeme\Desktop\Computer Graphics\Proje-1\Ödev Son Hali\sonnnn\aaa\griCevirme\griCevirme\obj\Debug\graphicProje.goruntuIsleme.resources
+C:\Users\egeme\Desktop\Computer Graphics\Proje-1\Ödev Son Hali\sonnnn\aaa\griCevirme\griCevirme\obj\Debug\graphicProje.Properties.Resources.resources
+C:\Users\egeme\Desktop\Computer Graphics\Proje-1\Ödev Son Hali\sonnnn\aaa\griCevirme\griCevirme\obj\Debug\graphicProje.csproj.GenerateResource.cache
+C:\Users\egeme\Desktop\Computer Graphics\Proje-1\Ödev Son Hali\sonnnn\aaa\griCevirme\griCevirme\obj\Debug\graphicProje.exe
+C:\Users\egeme\Desktop\Computer Graphics\Proje-1\Ödev Son Hali\sonnnn\aaa\griCevirme\griCevirme\obj\Debug\graphicProje.pdb
+C:\Users\egeme\Desktop\Computer Graphics\Proje-1\17-155-014 HAKKI EGEMEN GÜLPINAR\graphicsProje\graphicsProje\bin\Debug\graphicProje.exe.config
+C:\Users\egeme\Desktop\Computer Graphics\Proje-1\17-155-014 HAKKI EGEMEN GÜLPINAR\graphicsProje\graphicsProje\bin\Debug\graphicProje.exe
+C:\Users\egeme\Desktop\Computer Graphics\Proje-1\17-155-014 HAKKI EGEMEN GÜLPINAR\graphicsProje\graphicsProje\bin\Debug\graphicProje.pdb
+C:\Users\egeme\Desktop\Computer Graphics\Proje-1\17-155-014 HAKKI EGEMEN GÜLPINAR\graphicsProje\graphicsProje\obj\Debug\graphicProje.goruntuIsleme.resources
+C:\Users\egeme\Desktop\Computer Graphics\Proje-1\17-155-014 HAKKI EGEMEN GÜLPINAR\graphicsProje\graphicsProje\obj\Debug\graphicProje.Properties.Resources.resources
+C:\Users\egeme\Desktop\Computer Graphics\Proje-1\17-155-014 HAKKI EGEMEN GÜLPINAR\graphicsProje\graphicsProje\obj\Debug\graphicProje.csproj.GenerateResource.cache
+C:\Users\egeme\Desktop\Computer Graphics\Proje-1\17-155-014 HAKKI EGEMEN GÜLPINAR\graphicsProje\graphicsProje\obj\Debug\graphicProje.exe
+C:\Users\egeme\Desktop\Computer Graphics\Proje-1\17-155-014 HAKKI EGEMEN GÜLPINAR\graphicsProje\graphicsProje\obj\Debug\graphicProje.pdb
+C:\Users\egeme\Desktop\GitHub Previous Projects\17-155-014 HAKKI EGEMEN GÜLPINAR\17-155-014 HAKKI EGEMEN GÜLPINAR\graphicsProje\graphicsProje\bin\Debug\graphicProje.exe.config
+C:\Users\egeme\Desktop\GitHub Previous Projects\17-155-014 HAKKI EGEMEN GÜLPINAR\17-155-014 HAKKI EGEMEN GÜLPINAR\graphicsProje\graphicsProje\bin\Debug\graphicProje.exe
+C:\Users\egeme\Desktop\GitHub Previous Projects\17-155-014 HAKKI EGEMEN GÜLPINAR\17-155-014 HAKKI EGEMEN GÜLPINAR\graphicsProje\graphicsProje\bin\Debug\graphicProje.pdb
+C:\Users\egeme\Desktop\GitHub Previous Projects\17-155-014 HAKKI EGEMEN GÜLPINAR\17-155-014 HAKKI EGEMEN GÜLPINAR\graphicsProje\graphicsProje\obj\Debug\graphicProje.csproj.AssemblyReference.cache
+C:\Users\egeme\Desktop\GitHub Previous Projects\17-155-014 HAKKI EGEMEN GÜLPINAR\17-155-014 HAKKI EGEMEN GÜLPINAR\graphicsProje\graphicsProje\obj\Debug\graphicProje.goruntuIsleme.resources
+C:\Users\egeme\Desktop\GitHub Previous Projects\17-155-014 HAKKI EGEMEN GÜLPINAR\17-155-014 HAKKI EGEMEN GÜLPINAR\graphicsProje\graphicsProje\obj\Debug\graphicProje.Properties.Resources.resources
+C:\Users\egeme\Desktop\GitHub Previous Projects\17-155-014 HAKKI EGEMEN GÜLPINAR\17-155-014 HAKKI EGEMEN GÜLPINAR\graphicsProje\graphicsProje\obj\Debug\graphicProje.csproj.GenerateResource.cache
+C:\Users\egeme\Desktop\GitHub Previous Projects\17-155-014 HAKKI EGEMEN GÜLPINAR\17-155-014 HAKKI EGEMEN GÜLPINAR\graphicsProje\graphicsProje\obj\Debug\graphicProje.csproj.CoreCompileInputs.cache
+C:\Users\egeme\Desktop\GitHub Previous Projects\17-155-014 HAKKI EGEMEN GÜLPINAR\17-155-014 HAKKI EGEMEN GÜLPINAR\graphicsProje\graphicsProje\obj\Debug\graphicProje.exe
+C:\Users\egeme\Desktop\GitHub Previous Projects\17-155-014 HAKKI EGEMEN GÜLPINAR\17-155-014 HAKKI EGEMEN GÜLPINAR\graphicsProje\graphicsProje\obj\Debug\graphicProje.pdb
