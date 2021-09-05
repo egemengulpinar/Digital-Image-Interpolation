@@ -43,6 +43,8 @@ Select `graphicProje` file in Visual Studio and execute the program.
 
  When you execute the program, you should double click on imageBox and select any **small** size image.
  You can fit the input image for show all details in imageBox.
+Some parts writing in Turkish language. If anyone does not understanding some part , I could be help as soon as possible. 
+
 You can also do:
   
   - Rotate image 90, 180, 270
