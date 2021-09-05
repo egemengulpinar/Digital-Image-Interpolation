@@ -9,7 +9,7 @@ DDA line algorithm, grayscale and rotate input image.
 ![Logo](https://www.linkpicture.com/q/Project-Screenshot-while-Program-Running_2.png)
 
     
-## Used Interpolation Algorithms
+## Interpolation Algorithms Used
 
 1. Pixel Replication
     - Zero-Order Hold
