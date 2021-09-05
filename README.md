@@ -41,7 +41,7 @@ Open `Visual Studio` and import the project directory.
 
 Select `graphicProje` file in Visual Studio and execute the program.
 
- When you execute the program, you should select any **small** size image.
+ When you execute the program, you should double click on imageBox and select any **small** size image.
  You can fit the input image for show all details in imageBox.
 You can also do:
   
