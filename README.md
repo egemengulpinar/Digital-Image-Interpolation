@@ -51,8 +51,5 @@ You can also do:
   - Fit & Original Image
 
 
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
   
