@@ -14,7 +14,6 @@ DDA line algorithm, grayscale and rotate input image.
 1. Pixel Replication
     - Zero-Order Hold
     - First-Order Hold
-    - Nearest Neighbor Interpolation
 2. K-Times Zooming
 3. Bilinear Interpolation
 
