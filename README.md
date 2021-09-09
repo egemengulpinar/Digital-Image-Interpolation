@@ -26,7 +26,7 @@ DDA line algorithm, grayscale and rotate input image.
 
 
 
-![Alt Text](https://im2.ezgif.com/tmp/ezgif-2-277c0a957549.gif)
+![Alt Text](https://media.giphy.com/media/4emmLE5VTbzXTydUcB/source.mov)
   
 ## Using & Run 
 
